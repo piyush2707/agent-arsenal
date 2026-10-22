@@ -1,5 +1,9 @@
 # Agent Arsenal 🧰
 
+  <img src="agent-arsenal.png" alt="Project hero banner" width="100%">
+  
+  <img src="agent-arsenal1.png" alt="Project hero banner" width="100%">
+
 **Portable, practical AI-agent skills for Claude, Cursor, Codex, and other compatible coding agents.**
 
 Agent Arsenal is an open collection of focused skills that help AI agents do software work more carefully and consistently. Each skill includes a clear workflow, safety rules, and a useful output format.
