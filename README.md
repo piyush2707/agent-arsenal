@@ -13,13 +13,7 @@ Agent Arsenal is an open collection of focused skills that help AI agents do sof
 
 > **Project status:** Early development. Contributions, issues, and feedback are welcome.
 
-## Skills
-
-| Skill | What it helps with |
-| --- | --- |
-| [Bug Hunter](skills/bug-hunter/SKILL.md) | Investigate bugs, identify root causes, and suggest regression tests. |
-| [Code Reviewer](skills/code-reviewer/SKILL.md) | Review changes for correctness, regressions, and maintainability. |
-| [Security Auditor](skills/security-auditor/SKILL.md) | Spot common security risks and recommend practical mitigations. |
+ 
 
 ## Use a skill
 
