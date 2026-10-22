@@ -1,6 +1,9 @@
 # Agent Arsenal 🧰
 
-  <img src="hero.png" alt="Project hero banner" width="100%">
+<img src="assets/hero.png" alt="Project hero banner" width="100%" />
+
+<img src="assets/agent.png" alt="Project hero banner" width="100%" />
+
   
   
 
