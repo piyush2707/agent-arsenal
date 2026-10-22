@@ -2,7 +2,7 @@
 
   <img src="hero.png" alt="Project hero banner" width="100%">
   
-  <img src="heroo.png" alt="Project hero banner" width="100%">
+  
 
 **Portable, practical AI-agent skills for Claude, Cursor, Codex, and other compatible coding agents.**
 
